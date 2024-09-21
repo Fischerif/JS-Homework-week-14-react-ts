@@ -8,6 +8,8 @@ const Li = () => {
    
     
     const products = [
+
+
         {
             id: 1,
             name: 'LAND GULL',
@@ -18,13 +20,13 @@ const Li = () => {
             id: 2,
             name: 'FILTH DRINK',
             image: 'https://i.ytimg.com/vi/_7jVLp-n9ww/maxresdefault.jpg',
-            price: 56.99,
+            price: 6.99,
         },
         {
             id: 3,
             name: 'BAG OF FILTH',
             image: 'https://i.ytimg.com/vi/Wmyxkj-pmEc/maxresdefault.jpg',
-            price: 64.99,
+            price: 4.99, 
         },
     ];
 
@@ -46,11 +48,6 @@ const Li = () => {
         </div>
     );
 };
-
-
-
-
-
 
 
 export default Li;

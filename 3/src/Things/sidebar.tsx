@@ -1,5 +1,6 @@
 import { useState } from "react";
-import Email from "./cardo"; ///WE IMPORT EMAIL FUNCTIOn
+import Email from "./cardo"; ///WE IMPORT EMAIL FUNCTIOn ///// THIS THING IS DRIVING ME MAD
+
 import "./Sidebar.css"; ///WE IMPORTED THE CSS FILE
 
 const Sidebar = () => {
@@ -47,10 +48,11 @@ const Sidebar = () => {
                             <p>POISONS</p>
                         </div>
                         <div>
-                            <Email />
+                            <Email /> 
                         </div>
                         <div>
                             <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/transnistria-13-659032.png?f=webp" />
+                            <img src="      "  />
                         </div>
                     </div>
                 </>
